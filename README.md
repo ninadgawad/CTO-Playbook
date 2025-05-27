@@ -1,10 +1,10 @@
-# CTO Playbook
+# Leadership Playbook
 A strategic guide to building scalable tech organizations, architecting resilient platforms, and driving innovation as a modern leader.
 
 ---
 
 ## Purpose
-This repository captures my evolving thoughts, frameworks, and tools for navigating the CTO role — from **platform architecture and AI adoption** to **org design, hiring, and innovation strategy**. It’s based on two decades of hands-on experience scaling products, people, and platforms.
+This repository captures my evolving thoughts, frameworks, and tools for navigating the Leadership role — from **platform architecture and AI adoption** to **org design, hiring, and innovation strategy**. It’s based on two decades of hands-on experience scaling products, people, and platforms.
 
 ---
 
@@ -17,7 +17,7 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 - [Data Mesh vs Data Lakehouse](./architecture/data-platform-strategy.md)
 
 ### 2. **Engineering Leadership**
-- [CTO vs VP of Engineering: Role Clarity](./leadership/cto-vs-vpe.md)
+- [Leadership vs VP of Engineering: Role Clarity](./leadership/Leadership-vs-vpe.md)
 - [Scaling Engineering Teams](./leadership/scaling-teams.md)
 - [Engineering Career Ladder Template](./leadership/career-ladders.md)
 - [Effective 1:1s and Team Rituals](./leadership/rituals.md)
@@ -42,7 +42,7 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 
 ## Who Should Read This?
 
-- Aspiring and new CTOs
+- Aspiring and new Leaderships
 - Engineering leaders scaling up orgs
 - Founders building tech-first companies
 - Platform architects and product-minded engineers
@@ -51,16 +51,16 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 
 ## Roadmap
 
-- Add AI-native architecture templates (LangChain, vector DB, orchestration)
+- Add AI-native architecture templates (LangChain, veLeadershipr DB, orchestration)
 - Publish Engineering Career Ladder and OKRs guide
-- Document CTO-level stakeholder management strategies
+- Document Leadership-level stakeholder management strategies
 - Add open-source playbooks for platform teams
 
 ---
 
 ## Contributions Welcome
 
-This is a living playbook. I’d love to collaborate with other CTOs, VPEs, and builders. Feel free to fork, open issues, or submit pull requests with ideas and improvements.
+This is a living playbook. I’d love to collaborate with other Leaderships, VPEs, and builders. Feel free to fork, open issues, or submit pull requests with ideas and improvements.
 
 ---
 
