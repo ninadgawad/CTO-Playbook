@@ -1,12 +1,9 @@
 # Leadership Playbook
 A strategic guide to building scalable tech organizations, architecting resilient platforms, and driving innovation as a modern leader.
 
----
-
 ## Purpose
 This repository captures my evolving thoughts, frameworks, and tools for navigating the Leadership role — from **platform architecture and AI adoption** to **org design, hiring, and innovation strategy**. It’s based on two decades of hands-on experience scaling products, people, and platforms.
 
----
 
 ## Contents
 
@@ -38,7 +35,7 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 - [Incident Response Playbook](./security/incident-response.md)
 - [SRE & Platform Engineering Practices](./security/sre-foundations.md)
 
----
+
 
 ## Who Should Read This?
 
@@ -47,8 +44,9 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 - Founders building tech-first companies
 - Platform architects and product-minded engineers
 
----
 
 
-> "Technology is the engine. Culture is the fuel. Leadership is the map."
+```
+Technology is the engine. Culture is the fuel. Leadership is the map.
+```
 
