@@ -1,5 +1,5 @@
 # CTO Playbook
-A strategic guide to building scalable tech organizations, architecting resilient platforms, and driving innovation as a modern Chief Technology Officer.
+A strategic guide to building scalable tech organizations, architecting resilient platforms, and driving innovation as a modern leader.
 
 ---
 
