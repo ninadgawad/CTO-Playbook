@@ -49,21 +49,6 @@ This repository captures my evolving thoughts, frameworks, and tools for navigat
 
 ---
 
-## Roadmap
-
-- Add AI-native architecture templates (LangChain, veLeadershipr DB, orchestration)
-- Publish Engineering Career Ladder and OKRs guide
-- Document Leadership-level stakeholder management strategies
-- Add open-source playbooks for platform teams
-
----
-
-## Contributions Welcome
-
-This is a living playbook. I’d love to collaborate with other Leaderships, VPEs, and builders. Feel free to fork, open issues, or submit pull requests with ideas and improvements.
-
----
-
 
 > "Technology is the engine. Culture is the fuel. Leadership is the map."
 
